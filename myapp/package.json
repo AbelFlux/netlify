@@ -22,5 +22,16 @@
     "tailwindcss": "^3.4.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.5"
-  }
+  },
+  "description": "package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "netlify"
+  },
+  "keywords": [
+    "json"
+  ],
+  "author": "flux",
+  "license": "ISC"
 }
